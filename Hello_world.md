@@ -1,4 +1,4 @@
-## this is my code
+## this is my code 
 ```
 Printf "Hello World";
 printf "Hello Janus";
@@ -8,6 +8,3 @@ Printf "Hello Yu";
 Printf "Hello everyone! ";
 Return 0;
 ```
-#:pig:
-
-[markdown emoji links](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
