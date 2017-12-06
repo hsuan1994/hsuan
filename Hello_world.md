@@ -1,10 +1,10 @@
 ## this is my code 
 ```
 Printf "Hello World";
-Hello Janus;
-Hello Eve;
-Hello ?;
-Hello Yu;
-Hello everyone! ;
+printf "Hello Janus";
+Printf "Hello Eve";
+Printf "Hello ?";
+Printf "Hello Yu";
+Printf "Hello everyone! ";
 Return 0;
 ```
